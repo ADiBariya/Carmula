@@ -1,0 +1,1 @@
+{\n  "name": "carmula-backend",\n  "version": "1.0.0",\n  "description": "Backend for Carmula application using Node.js and Socket.io",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "socket.io": "^4.0.0",\n    "express": "^4.17.1",\n    "cors": "^2.8.5"\n  },\n  "author": "ADiBariya",\n  "license": "MIT"\n}
